@@ -21,4 +21,4 @@ This is a simple web project. Deployment can be on any web server or even a loca
 Please fork this repository and then issue pull request for review.
 
 ### Copyright
-(c)2019 GKC2
+(c)2019 GKC2. All Rights Reserved.
