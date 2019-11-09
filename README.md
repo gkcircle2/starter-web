@@ -15,3 +15,6 @@ More text, muaaaaaahhahahahaaaaaaaa
 This is a simple web project. Deployment can be on any web server or even a local file system.
 
 ## How to Contribute
+
+### Copyright
+(c)2019 GKC2
