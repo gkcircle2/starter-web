@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Adding a line for the rebasing example. More changes from myFeature are coming
+Adding a line for the rebasing example. More changes from myFeature are coming. Updating for emergency fix. Man, I need to learn how to type.
 
 ## Introduction
 
