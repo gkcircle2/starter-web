@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	Greg Circle	gkcircle2@gmail.com		@judgedByLiberty
 # THANKS
 
     <name>
