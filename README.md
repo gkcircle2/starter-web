@@ -16,5 +16,7 @@ This is a simple web project. Deployment can be on any web server or even a loca
 
 ## How to Contribute
 
+Please fork this repository and then issue pull request for review.
+
 ### Copyright
 (c)2019 GKC2
